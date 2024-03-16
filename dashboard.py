@@ -87,7 +87,7 @@ weekday_df = weekday_data(filtered_df)
 
 st.header('Data analysis of Bike Sharing Dataset')
 
-st.subheader('Daily Orders')
+st.subheader('Rented Bike')
 col1, col2 = st.columns(2)
 
 with col1:
